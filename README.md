@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**mjpin7/mjpin7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-
 - 🔭 I’m currently working as a DevOps Dev at IBM
 - 🌱 I’m currently learning to make cool things with Go
 - 📫 How to reach me: Anywhere! Check out my site for details https://mpinheiro.ca
