@@ -9,6 +9,6 @@
 - 📫 How to reach me: Anywhere! Check out my site for details https://mpinheiro.ca
 - 😄 Pronouns: he/him
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mjpin7&show_icons=true&include_all_commits=true&theme=merko)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mjpin7&count_private=true&show_icons=true&include_all_commits=true&theme=merko)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjpin7&layout=compact&theme=merko)
